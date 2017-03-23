@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Hosting;
 
 namespace univ
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)
